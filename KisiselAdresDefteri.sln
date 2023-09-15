@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KisiselAdresDefteri.Web", "KisiselAdresDefteri.Web\KisiselAdresDefteri.Web.csproj", "{439D1BEB-EAD9-46F1-B0FB-8D26A6AB68DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{439D1BEB-EAD9-46F1-B0FB-8D26A6AB68DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{439D1BEB-EAD9-46F1-B0FB-8D26A6AB68DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{439D1BEB-EAD9-46F1-B0FB-8D26A6AB68DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{439D1BEB-EAD9-46F1-B0FB-8D26A6AB68DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A702743-141B-4709-BC1F-93E84EE0D3AB}
+	EndGlobalSection
+EndGlobal
